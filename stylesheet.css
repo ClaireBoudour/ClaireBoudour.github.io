@@ -2,33 +2,90 @@
 	color: red;
 }
 
-a {
-	display: block;
-}
 
-#sidenav {
+.col s2 {
 	background-color: #E8E8E8;
-	height: 9000px
+	height: 4000px;
+	width: 1000px;
 }
 
 h1 {
 	color: #e80018;
 	text-align: center;
+	font-family: 'Bebas Neue', cursive;
 }
 h3 {
 	color: #2b2d2f;
 	text-align: left;
+	font-family: 'Bebas Neue', cursive;
 	}
 	
 h5 {
 	color: #e80018;
-	text-align: right;
+	text-align: center;
+	font-family: 'Bellefair', serif;
 }
 p {
 	color: black;
 	text-align: left;
+	font-family: 'Bellefair', serif;
 }
 
-.waves-effect waves-light btn-large z-depth-5 {
-	size: 200px
+#FreePressLink {
+	color: #2b2d2f
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+}
+
+h4 {
+	text-align: center;
+	font-family: 'Bellefair', serif;
+}
+
+h6 {
+	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+}
+
+a:link {
+	color: blue;
+	font-size: 12;
+}
+
+a:visited {
+	color: purple;
+	font-size: 12;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+	font-size: 12;
+}
+
+a:active {
+	text-decoration: underline;
+	color: orange;
+	font-size: 12;
+}
+
+.hero {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url(http://www.newschoolfreepress.com/wp-content/uploads/2019/11/IMG_2061.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+iframe {
+	align-items: center;
 }
