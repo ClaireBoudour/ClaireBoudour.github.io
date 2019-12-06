@@ -12,12 +12,12 @@
 h1 {
 	color: #e80018;
 	text-align: center;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Bebas Neue';
 }
 h3 {
 	color: #2b2d2f;
 	text-align: left;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Bebas Neue';
 	}
 	
 h5 {
@@ -38,7 +38,7 @@ p {
 
 h2 {
 	text-align: center;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Bebas Neue';
 }
 
 h4 {
@@ -48,7 +48,7 @@ h4 {
 
 h6 {
 	text-align: center;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Bebas Neue';
 }
 
 a:link {
